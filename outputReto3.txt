@@ -1,0 +1,125 @@
+Breakpoint 1 at 0x401000
+Breakpoint 2 at 0x40101e
+Breakpoint 3 at 0x401045
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+0x000000000040100a in _start ()
+0x000000000040100f in bucle1 ()
+0x0000000000401012 in bucle1 ()
+<<<---ANTES DE BUCLE1--->>>
+rcx            0x0                 0
+rbx            0x0                 0
+
+Breakpoint 2, 0x000000000040101e in salida ()
+<<<---DESPUES DEL BUCLE1--->>>
+rcx            0x4                 4
+rbx            0x0                 0
+
+Breakpoint 3, 0x0000000000401045 in salida2 ()
+<<<---DESPUES DEL BUCLE2--->>>
+rcx            0x0                 0
+rbx            0x4                 4
+<<<---RESULTADO--->>>
+[Inferior 1 (process 68120) exited normally]
+<<<---FIN--->>>
+Breakpoint 1 at 0x401000
+Breakpoint 2 at 0x40101e
+Breakpoint 3 at 0x401045
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+0x000000000040100a in _start ()
+0x000000000040100f in bucle1 ()
+0x0000000000401012 in bucle1 ()
+<<<---ANTES DE BUCLE1--->>>
+rcx            0x0                 0
+rbx            0x0                 0
+
+Breakpoint 2, 0x000000000040101e in salida ()
+<<<---DESPUES DEL BUCLE1--->>>
+rcx            0x3                 3
+rbx            0x0                 0
+
+Breakpoint 3, 0x0000000000401045 in salida2 ()
+<<<---DESPUES DEL BUCLE2--->>>
+rcx            0x0                 0
+rbx            0x3                 3
+<<<---RESULTADO--->>>
+[Inferior 1 (process 68433) exited normally]
+<<<---FIN--->>>
+Breakpoint 1 at 0x401000
+Breakpoint 2 at 0x40101e
+Breakpoint 3 at 0x401045
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+0x000000000040100a in _start ()
+0x000000000040100f in bucle1 ()
+0x0000000000401012 in bucle1 ()
+<<<---ANTES DE BUCLE1--->>>
+rcx            0x0                 0
+rbx            0x0                 0
+
+Breakpoint 2, 0x000000000040101e in salida ()
+<<<---DESPUES DEL BUCLE1--->>>
+rcx            0x5                 5
+rbx            0x0                 0
+
+Breakpoint 3, 0x0000000000401045 in salida2 ()
+<<<---DESPUES DEL BUCLE2--->>>
+rcx            0x0                 0
+rbx            0x5                 5
+<<<---RESULTADO--->>>
+[Inferior 1 (process 68537) exited normally]
+<<<---FIN--->>>
+Breakpoint 1 at 0x401000
+Breakpoint 2 at 0x40101e
+Breakpoint 3 at 0x401045
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+0x000000000040100a in _start ()
+0x000000000040100f in bucle1 ()
+0x0000000000401012 in bucle1 ()
+<<<---ANTES DE BUCLE1--->>>
+rcx            0x0                 0
+rbx            0x0                 0
+
+Breakpoint 2, 0x000000000040101e in salida ()
+<<<---DESPUES DEL BUCLE1--->>>
+rcx            0x5                 5
+rbx            0x0                 0
+
+Breakpoint 3, 0x0000000000401045 in salida2 ()
+<<<---DESPUES DEL BUCLE2--->>>
+rcx            0x0                 0
+rbx            0x5                 5
+<<<---RESULTADO--->>>
+[Inferior 1 (process 68601) exited normally]
+<<<---FIN--->>>
+Breakpoint 1 at 0x401000
+Breakpoint 2 at 0x40101e
+Breakpoint 3 at 0x401045
+<<<---INICIO--->>>
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+0x000000000040100a in _start ()
+0x000000000040100f in bucle1 ()
+0x0000000000401012 in bucle1 ()
+<<<---ANTES DE BUCLE1--->>>
+rcx            0x0                 0
+rbx            0x0                 0
+
+Breakpoint 2, 0x000000000040101e in salida ()
+<<<---DESPUES DEL BUCLE1--->>>
+rcx            0x5                 5
+rbx            0x0                 0
+
+Breakpoint 3, 0x0000000000401045 in salida2 ()
+<<<---DESPUES DEL BUCLE2--->>>
+rcx            0x0                 0
+rbx            0x5                 5
+<<<---RESULTADO--->>>
+[Inferior 1 (process 68826) exited normally]
+<<<---FIN--->>>
